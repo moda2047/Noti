@@ -4,7 +4,7 @@
 	branch = develop
 [submodule "noti-backend"]
 	path = noti-backend
-	url = https://github.com/seon207/NoTI-Backend.git
+	url = https://github.com/moda2047/noti-backend.git
 	branch = develop
 [submodule "noti-ai"]
 	path = noti-ai
